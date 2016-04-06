@@ -1,4 +1,4 @@
-# random_tools
+# GoogleMaps_API Overview
 
 Python script to send RESTful request to Google Maps Distance Matrix API and obtain distances and durations between addresses
 Google Maps Matrix API: https://developers.google.com/maps/documentation/distance-matrix/intro#Introduction
