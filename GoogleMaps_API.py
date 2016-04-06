@@ -60,7 +60,7 @@ distance_mi = []
 
 #base URL and auth key
 url = 'https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial'
-auth = 'AIzaSyC7xEPuztHqfDvF7xZKRPOvS5u6SVf73bo'
+auth = 'your auth goes here'
 
 start = time.time()  #to clock runtime of script
 
